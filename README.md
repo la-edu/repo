@@ -10,6 +10,7 @@ scientific ventures at Los Angleles City College.
 To utilize the library in your Google Colab notebook, make sure to import using the following:
 
 ```
+pip install lacc
 from lacc import *
 ```
 
@@ -19,11 +20,11 @@ Alternatively, to only import selected libraries for a specific lab (i.e. `lab2`
 from lacc.lab2 import *
 ```
 
-
-
 ## Publishing
 
 To publish updates to these packages, please register with the [LACC Organizational Account](https://github.com/la-edu) on [GitHub](https://github.com/). Email department chair Dr. Jayesh Bhakta @ [bhaktaj@lacitycollege.edu](mailto:bhaktaj@lacitycollege.edu) for further information.
+
+Code is deployed to the testing repository, `test.pypi.org`, as well as the production repository, `pypi.org`.
 
 Most of the code that requires maintainance is grouped by lab folders. Please maintain shared lab modules within the `utils` directory.
 
