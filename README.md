@@ -44,7 +44,7 @@ $> source venv/bin/activate
 $> pip install -r requirements.txt
 ```
 
-#### Tests
+### Tests
 
 ```
 $> cd <ROOT_DIR>
