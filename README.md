@@ -5,6 +5,22 @@
 This python module contains functions that are used for all the calculations required for lab reports as well as other
 scientific ventures at Los Angleles City College.
 
+## Getting Started
+
+To utilize the library in your Google Colab notebook, make sure to import using the following:
+
+```
+from lacc import *
+```
+
+Alternatively, to only import selected libraries for a specific lab (i.e. `lab2`), you may import:
+
+```
+from lacc.lab2 import *
+```
+
+
+
 ## Publishing
 
 To publish updates to these packages, please register with the [LACC Organizational Account](https://github.com/la-edu) on [GitHub](https://github.com/). Email department chair Dr. Jayesh Bhakta @ [bhaktaj@lacitycollege.edu](mailto:bhaktaj@lacitycollege.edu) for further information.
