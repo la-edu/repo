@@ -2,7 +2,7 @@
 
 ## Overview
 
-This python module contains functions that are used for all the calculations required for lab reports as well as other
+This python module contains helper methods and lab materials that are used for all the calculations required for lab reports as well as other
 scientific ventures at Los Angleles City College.
 
 ## Getting Started
